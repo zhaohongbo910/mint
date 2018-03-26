@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding:0;
+	list-style: none;
+}
+
+html,body{
+	height: 100vh;
+	width: 100vw;
+}
+
+/*.mint-tab-item-icon > img {
+    display: inline-block;
+    width: 33px  !important;
+}*/
+
+a:hover {
+    text-decoration: none;
+}
